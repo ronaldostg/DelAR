@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gedung_9" size="250.000000 152.460464" />
+    <ImageTarget name="rumah_dosen" size="250.000000 173.913040" />
+    <ImageTarget name="gedung_8" size="250.000000 187.030075" />
+    <ImageTarget name="gedung_7" size="250.000000 79.837326" />
+    <ImageTarget name="gd_511" size="250.000000 82.236839" />
+    <ImageTarget name="gedung_4" size="250.000000 147.812973" />
+    <ImageTarget name="auditorium" size="250.000000 153.917908" />
+    <ImageTarget name="kantor_administrasi" size="250.000000 149.328857" />
+    <ImageTarget name="koperasi" size="250.000000 148.713821" />
+    <ImageTarget name="kantin_baru" size="250.000000 143.086823" />
+    <ImageTarget name="gedung_rektorat" size="250.000000 154.895660" />
+    <ImageTarget name="entrance_hall" size="250.000000 160.513641" />
+  </Tracking>
+</QCARConfig>
